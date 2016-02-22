@@ -1,0 +1,9 @@
+
+new features in Java8:
+Functions as first class citizens (lambdas - anonymous functions)
+Streams
+Default Methods
+Optionals
+Pattern Matching (partially)
+CompletableFutures
+Date and Time
